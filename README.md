@@ -30,5 +30,5 @@ This tool was co-created by **Arjun S.** with the help of **AI scripting assista
 ## 🧪 How to Use
 
 ```bash
-chmod +x lgnome-ogin-debug.sh
+chmod +x gnome-login-debug.sh
 ./gnome-login-debug.sh
